@@ -7,5 +7,5 @@ python 3.7
 einops
 
 # Reference  
-https://s5unnyjjj.tistory.com/
+* additional explanation: https://s5unnyjjj.tistory.com/
 
